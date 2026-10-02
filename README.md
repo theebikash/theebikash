@@ -45,6 +45,19 @@ A production-style E-Commerce REST API engineered for scalability, testing, and 
 
 **Tech:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy` · `Alembic` · `Pytest` · `Docker`
 
+### 🎓 Student Course Management API
+A backend REST API for managing students and their courses using FastAPI, MySQL, and SQLAlchemy.
+
+**Key Features:**
+- 👨‍🎓 **Student & Course Management:** Complete CRUD operations for handling records.
+- 🔗 **Database Relationships:** Engineered robust One-to-Many database relationships.
+- ⚙️ **RESTful Architecture:** Clean, scalable CRUD REST APIs.
+- 🗄️ **MySQL Integration:** Seamless database management using SQLAlchemy ORM.
+
+**Tech:** `Python` · `FastAPI` · `MySQL` · `SQLAlchemy`
+
+[**🔗 View Project**](https://github.com/theebikash/student-course-management-api)
+
 ---
 
 ## 🎯 Currently Learning
